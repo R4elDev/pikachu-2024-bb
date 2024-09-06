@@ -1,6 +1,9 @@
 # Landing Page - Let's Go, Pikachu!
 
 ![](./screenshot/pikachu_screen.png)
+![](./screenshot/rayquaza_screen.png)
+![](./screenshot/squirtle_screen.png)
+![](./screenshot/arceus_screen.png)
 
 ---
 
