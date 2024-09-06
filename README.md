@@ -18,4 +18,4 @@ Site do tipo landing page para divulgar o jogo Let's Go, Pikachu. O objetivo des
 
 ## Autor
 
-- [Israel Junior](https://www.linkedin.com/in/israel-junior)
+- [Israel Junior](https://www.linkedin.com/in/israel-junior-0a48742b0/)
