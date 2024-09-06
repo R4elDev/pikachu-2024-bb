@@ -6,7 +6,7 @@
 
 ## Sobre
 
-Site do tipo landing page para divulgar o jogo Let's Go, Pikachu. O objetivo desse projeto é colocar em pratica os conhecimentos adquiridos sobre linguagens de marcação, durante o curso de desenvolvimento dew sistema do [SENAI JANDIRA](https://sp.senai.br/unidade/jandira)
+Site do tipo landing page para divulgar o jogo Let's Go, Pikachu. O objetivo desse projeto é colocar em pratica os conhecimentos adquiridos sobre linguagens de marcação, durante o curso de desenvolvimento de sistema do [SENAI JANDIRA](https://sp.senai.br/unidade/jandira)
 
 ---
 
